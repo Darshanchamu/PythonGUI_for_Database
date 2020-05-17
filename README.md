@@ -1,5 +1,4 @@
-# PythonGUI_for_Database
-Connecting the database to a Graphical User Interface using python.
+# PythonGUIApplication
 A simple python GUI application using tkinter and MySQL
 ***************README******************
 
